@@ -1,4 +1,4 @@
-####   👋 <h2> Welcome my profile! </hs>!
+####   👋 <h2> Welcome! </hs>!
 
 Hi, I'am Reinaldo Santana currently learning techs for front-end Developer web at Rockseat. I love learing new technology and skills of innovation and how disruptive bussiness.
 
