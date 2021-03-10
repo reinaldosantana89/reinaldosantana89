@@ -1,5 +1,11 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Reinaldo Santana</h1>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/reinaldosantana/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reinaldosantana89" height="20" width="20" /></a>
+<a href="https://www.facebook.com/profile.php?id=100013987098474" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="reinaldosantana89" height="20" width="20" /></a>
+<a href="https://www.instagram.com/_reinaldosantana/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="reinaldosantana89" height="20" width="20" /></a>
+</p>
+
 Hi, I'am Reinaldo Santana currently learning techs for front-end Developer web at Rockseat. I love learing new technology and skills of innovation and how disruptive bussiness.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reinaldosantana89" alt="reinaldosantana89" /> </p>
