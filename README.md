@@ -29,7 +29,7 @@ Hi, I'am Reinaldo Santana currently learning techs for front-end Developer web a
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reinaldosantana89" alt="reinaldosantana89" /> </p>
 
 
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
@@ -38,7 +38,6 @@ Hi, I'am Reinaldo Santana currently learning techs for front-end Developer web a
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=reinaldosantana89&show_icons=true" alt="reinaldosantana89"/> 
 </p>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/reinaldosantana/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reinaldosantana89" height="20" width="20" /></a>
 <a href="https://www.facebook.com/profile.php?id=100013987098474" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="reinaldosantana89" height="20" width="20" /></a>
