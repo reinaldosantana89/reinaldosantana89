@@ -16,7 +16,7 @@ Hi, I'am Reinaldo Santana currently learning techs for front-end Developer web a
 <h3> My values </h3>
 
 - 🔭 Beginner's mind set and Curiosity
-- ⚡ Sharing anythin I learned
+- ⚡ Sharing anything I learned
 
 <h3> Goals of 2021 </h3>
 
