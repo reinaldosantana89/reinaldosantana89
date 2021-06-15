@@ -22,7 +22,7 @@ Hi, I'am Reinaldo Santana currently learning techs for front-end Developer web a
 
 - 🔭 Become a front end developer
 - ⚡ Become a python expert
-- 🌱 fluency in english
+- 🌱 Intermediary english
 - 🌱 I'm currently learning: HTML CSS, JAVASCRIPT, PYTHON, NODE, REACT JS, FLUTTER ++++ :)
 
 
