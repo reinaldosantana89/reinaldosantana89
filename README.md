@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/_reinaldosantana/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="reinaldosantana89" height="20" width="20" /></a>
 </p>
 
-Hi, I'am Reinaldo Santana currently learning techs for front-end Developer web at Rockseat. I love learing new technology and skills of innovation and how disruptive bussiness.
+Hi, I'am Reinaldo Santana currently learning techs for front-end Developer web at Rockseat and data science at Datacamp. I love learing new technology and skills of innovation and how disruptive bussiness.
 
 <h1 align="center"> <img src = "https://miro.medium.com/max/680/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="600px">
 
